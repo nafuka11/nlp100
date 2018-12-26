@@ -199,4 +199,5 @@ pyvenv.cfg
 pip-selfcheck.json
 
 # nlp100 settings
-*/output/*
+**/output/*
+!**/.gitkeep
